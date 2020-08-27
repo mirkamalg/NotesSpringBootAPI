@@ -1,7 +1,7 @@
 package com.example.test.controller;
 
+import com.example.test.database.DataBase;
 import com.example.test.model.Note;
-import database.DataBase;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

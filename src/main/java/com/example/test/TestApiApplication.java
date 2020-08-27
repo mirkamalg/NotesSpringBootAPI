@@ -1,7 +1,7 @@
 package com.example.test;
 
+import com.example.test.database.DataBase;
 import com.example.test.model.Note;
-import database.DataBase;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

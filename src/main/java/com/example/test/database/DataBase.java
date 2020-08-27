@@ -1,4 +1,4 @@
-package database;
+package com.example.test.database;
 
 import com.example.test.model.Note;
 
